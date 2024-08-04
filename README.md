@@ -24,3 +24,7 @@ This repository contains examples of writing and reading Java objects to and fro
    git clone https://github.com/seniru-dilmith/Input-Output-Streams-with-JAVA.git
    cd Input-Output-Streams-with-JAVA
    ```
+
+   ## License
+
+This project is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. See the [LICENSE](LICENSE) file for details.
